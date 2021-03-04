@@ -20,7 +20,7 @@ tensorflow 1.14.0
 
 keras 2.2.5
 
-##其他必须安装的库
+## 其他必须安装的库
 
 numpy 1.16.4
 
@@ -28,7 +28,7 @@ h5py 2.8.0
 
 matplotlib 3.0.2
 
-##目录说明:
+## 目录说明:
 
 ├─ dataset  
 ├─ groundtruth  
